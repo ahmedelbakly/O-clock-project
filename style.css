@@ -1,0 +1,48 @@
+
+body {
+    padding: 30px;
+    background-image: url("image/1.jpg");
+    background-size: cover;
+    transition: all 2s;
+    border-radius: 30px;
+}
+
+header {
+    
+        padding: 30px;
+        color:#efff00d9;
+        text-align: center;
+        font-size: 60px;
+        font-family: cursive;
+    
+}
+
+.container {
+    padding: 50px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 40px;
+    color: yellow;
+    transform: translateY(-86px);
+    background-color: rgba(16, 30, 230, 0.493);
+    border-radius: 20px;
+    min-width:700px ;
+}
+#title {
+    color: rgba(0, 255, 64, 0.856);
+    font-family: monospace;
+}
+.container .dateCont {
+    font-size: 60px;
+ color:#efff00d9;
+    
+
+}
+
+.container .time {
+    font-size: 100px;
+    color: orange;
+    
+}
